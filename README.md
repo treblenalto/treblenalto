@@ -17,5 +17,5 @@
 ---
 
 <div id="stats" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Taehee-K&theme=tokyonight&show_icons=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Taehee-K&theme=tokyonight&count_private=true&show_icons=true" alt="GitHub Stats">
 </div>
