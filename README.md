@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=667395&vCenter=true&width=250&height=30&lines=Taeteataetealalala+;Hi+I'm+Taehee:)++++" width=200 alt="name">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=667395&vCenter=true&width=250&height=30&lines=Taeteataetealalala+;Hi+I'm+Taehee+:)++++" width=200 alt="name">
 </div>
 
 ---
