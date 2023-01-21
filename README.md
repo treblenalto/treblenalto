@@ -6,7 +6,7 @@
 
 <div id="stats" align="center">
     <div id="badges">
-        <a href="https://github.com/Taehee-K">
+        <a href="https://github.com/treblenalto">
             <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
         </a>
         <a href="mailto:taehee107275@gmail.com">
@@ -17,7 +17,7 @@
         </a>
     </div>
     
-<img src="https://github-readme-stats.vercel.app/api?username=Taehee-K&theme=tokyonight&count_private=true&show_icons=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=treblenalto&theme=tokyonight&count_private=true&show_icons=true" alt="GitHub Stats">
 
-<!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaehee-K&count_bg=%23667395&title_bg=%23555555&icon=pinboard.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true" alt="hits" /> -->
+<!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftreblenalto&count_bg=%23667395&title_bg=%23555555&icon=pinboard.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true" alt="hits" /> -->
 </div>
